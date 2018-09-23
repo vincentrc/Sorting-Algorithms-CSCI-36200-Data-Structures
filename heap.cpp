@@ -8,7 +8,7 @@ heap::heap()
 }
 heap::~heap(){}
 
-//Method for inserting a num into the correct location in the heap
+//Method for inserting a num into the correct location in the heap (should be buildheap - oops)
 void heap::insert(int num)
 {
 	int x;
